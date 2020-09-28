@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a SWE Intern at Apple, working remotely. 👨‍💻
+- 🔭 I’m currently working as a SWE Intern at Ultrahuman, working remotely. 👨‍💻
 - 🌱 I’m currently learning to manage my time productively to get the best out of these three months.
 - 📫 How to reach me: You can find me available most of the time on [Twitter](https://twitter.com/rudrankriyam)
 
