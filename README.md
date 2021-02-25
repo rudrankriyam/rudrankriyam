@@ -1,20 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a SWE Intern at Ultrahuman, working remotely. 👨‍💻
-- 🌱 I’m currently learning to manage my time productively to get the best out of the ten months.
+- 🔭 I’m currently working on becoming an independent Apple platforms developer.  👨‍💻
+- 🌱 I’m currently experimenting with SwiftUI and loving it so far.
 - 📫 How to reach me: You can find me available most of the time on [Twitter](https://twitter.com/rudrankriyam)
 
-
-<!--
-**rudrankriyam/rudrankriyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 I'm open to part-time contract work. Mail me @ [contact@rudrankriyam.com](contact@rudrankriyam.com)
