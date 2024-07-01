@@ -8,7 +8,7 @@ An experienced engineer developing for Apple Platforms, while recently exploring
 - Skilled in frameworks including **SwiftUI**, **MusicKit**, **Combine**, **HealthKit**, and **WatchKit**.
 - Technical writer, authoring articles on **LogRocket** and other leading blog sites.
 - Technical author, authoring the book on [Exploring MusicKit and Apple Music API](https://rudrank.gumroad.com/l/musickit).
-- Conference speaker, including **Deep Dish Swift**, **plSwift**, **Do iOS**, and **iOS Conf SG**.
+- Conference speaker; spoke at **Deep Dish Swift 2023**, **plSwift 2023**, **Do iOS 2023**, **iOS Conf SG 2024**, and **iOSKonf Macedonia 2024**.
 
 ## Achievements
 
