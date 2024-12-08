@@ -32,6 +32,10 @@ I write and develop apps for Apple platforms, with a recent focus on exploring v
 - Author of ["Exploring MusicKit and Apple Music API"](https://rudrank.gumroad.com/l/musickit)
 
 ### Speaking Engagements
+
+#### (Upcoming) 2025 
+- 🇫🇮 ARCtic Conference, Oulu, Finland
+
 #### 2024
 - 🇸🇬 iOS Conf Singapore
 - 🇲🇰 iOSKonf, Skopje, Macedonia
