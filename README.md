@@ -1,6 +1,6 @@
 # Hi there!
 
-I amm **Rudrank Riyam** — an experienced Apple Platforms engineer about creating apps and sharing knowledge with the developer community.
+I am **Rudrank Riyam** — an experienced Apple Platforms engineer about creating apps and sharing knowledge with the developer community.
 
 <div align="center">
   
