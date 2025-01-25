@@ -11,10 +11,9 @@ I am **Rudrank Riyam** — an experienced Apple Platforms engineer about creatin
 
 ## Experience
 
-I write and develop apps for Apple platforms, with a recent focus on exploring visionOS. My journey includes working with notable companies and startups:
+I write and develop apps for Apple platforms, with a recent focus on exploring AI. My journey includes working with notable companies and startups:
 
 - **Apple**
-- **Ultrahuman**
 - **Texts**
 
 ## Technical Expertise
