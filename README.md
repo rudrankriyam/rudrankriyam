@@ -13,8 +13,9 @@ I am **Rudrank Riyam** — an experienced Apple Platforms engineer about creatin
 
 I write and develop apps for Apple platforms, with a recent focus on exploring AI. My journey includes working with notable companies and startups:
 
-- **Apple**
-- **Texts**
+- [**Apple**](https://apple.com)
+- [**Texts**](https://texts.com/)
+- [**Alex Inc**](https://alexcodes.app/)
 
 ## Technical Expertise
 
@@ -29,6 +30,7 @@ I write and develop apps for Apple platforms, with a recent focus on exploring A
 ### Technical Writing
 - Contributed to [LogRocket](https://blog.logrocket.com/author/rudrankriyam/)
 - Author of ["Exploring MusicKit and Apple Music API"](https://rudrank.gumroad.com/l/musickit)
+- Author or ["Exploring AI Assisted Coding"](https://academy.rudrank.com/product/ai-assisted-coding)
 
 ### Speaking Engagements
 
