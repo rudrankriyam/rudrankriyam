@@ -45,7 +45,7 @@ I write and develop apps for Apple platforms, with a recent focus on exploring A
 - 🇵🇱 plSwift, Warsaw, Poland
 - 🇳🇱 Do iOS, Amsterdam, Netherlands
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
@@ -53,14 +53,5 @@ I write and develop apps for Apple platforms, with a recent focus on exploring A
 |------------|------|
 | Apple WWDC19 Scholarship Winner | 2019 |
 | Google Summer of Code Student Developer | 2019 |
-
-</div>
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-%40rudrankriyam-00acee)](https://twitter.com/rudrankriyam)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rudrank-0077B5)](https://linkedin.com/in/rudrank)
 
 </div>
