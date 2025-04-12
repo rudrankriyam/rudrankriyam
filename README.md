@@ -34,7 +34,7 @@ I write and develop apps for Apple platforms, with a recent focus on exploring A
 
 ### Speaking Engagements
 
-#### (Upcoming) 2025 
+#### 2025 
 - 🇫🇮 ARCtic Conference, Oulu, Finland
 
 #### 2024
