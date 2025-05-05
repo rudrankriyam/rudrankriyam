@@ -1,6 +1,6 @@
 # Hi there!
 
-I am **Rudrank Riyam** — an experienced Apple Platforms engineer about creating apps and sharing knowledge with the developer community.
+I am **Rudrank Riyam** — an experienced Apple Platforms engineer, about creating apps and sharing knowledge with the developer community.
 
 <div align="center">
   
@@ -30,7 +30,8 @@ I write and develop apps for Apple platforms, with a recent focus on exploring A
 ### Technical Writing
 - Contributed to [LogRocket](https://blog.logrocket.com/author/rudrankriyam/)
 - Author of ["Exploring MusicKit and Apple Music API"](https://rudrank.gumroad.com/l/musickit)
-- Author or ["Exploring AI Assisted Coding"](https://academy.rudrank.com/product/ai-assisted-coding)
+- Author of ["Exploring AI Assisted Coding"](https://academy.rudrank.com/product/ai-assisted-coding)
+- Author of ["Exploring AI for iOS Developers"](https://academy.rudrank.com/product/ai)
 
 ### Speaking Engagements
 
