@@ -36,15 +36,11 @@ I am a writer and developer for Apple Platforms, with focus on AI-powered tools.
 
 ## Writing
 
-### Books & Courses
+### Technical Books
 
 - [**Exploring MusicKit and Apple Music API**](https://rudrank.gumroad.com/l/musickit) - A practical guide to MusicKit
 - [**Exploring AI Assisted Coding**](https://academy.rudrank.com/product/ai-assisted-coding) - Using AI tools in development
 - [**Exploring AI for iOS Developers**](https://academy.rudrank.com/product/ai) - Integrating AI into iOS apps
-
-### Technical Writing
-
-- Regular contributor at [**LogRocket**](https://blog.logrocket.com/author/rudrankriyam/)
 
 ## Conference Talks
 
