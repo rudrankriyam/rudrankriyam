@@ -70,20 +70,3 @@ I am a writer and developer for Apple Platforms, with focus on AI-powered tools.
 | **Google Summer of Code Student Developer** | 2019 |
 
 </div>
-
-## Contact
-
-<div align="center">
-
-Feel free to reach out for collaborations or discussions about iOS development.
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rudrankriyam)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudrank)
-
-</div>
-
----
-
-<div align="center">
-  <sub>Built with SwiftUI principles in mind</sub>
-</div>
