@@ -2,7 +2,7 @@
   
 # Rudrank Riyam
 
-### Apple Platforms Engineer · AI Explorer · Technical Author
+### Apple Platforms Engineer · International Speaker · Technical Author
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/rudrankriyam?style=for-the-badge&logo=twitter)](https://x.com/rudrankriyam)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rudrank)
