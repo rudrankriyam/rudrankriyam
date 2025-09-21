@@ -21,15 +21,15 @@ I am a writer and developer for Apple Platforms, with focus on AI-powered tools.
   <tr>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Apple"/>
-      <br><strong>Apple</strong>
+      <br><strong>Voice Control team @ Apple</strong>
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/Texts-4285F4?style=for-the-badge" alt="Texts"/>
-      <br><strong>Texts</strong>
+      <br><strong>iOS Engineer @ Texts (Acquired by Automattic)</strong>
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/Alex_Inc-FF6B6B?style=for-the-badge" alt="Alex Inc"/>
-      <br><strong>Alex Sidebar (Acquired by OpenAI)</strong>
+      <br><strong>macOS Engineer @ Alex Sidebar (Acquired by OpenAI)</strong>
     </td>
   </tr>
 </table>
