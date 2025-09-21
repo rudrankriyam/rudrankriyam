@@ -29,7 +29,7 @@ I am a writer and developer for Apple Platforms, with focus on AI-powered tools.
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/Alex_Inc-FF6B6B?style=for-the-badge" alt="Alex Inc"/>
-      <br><strong>Alex Inc</strong>
+      <br><strong>Alex Sidebar (Acquired by OpenAI)</strong>
     </td>
   </tr>
 </table>
