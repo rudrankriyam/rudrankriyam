@@ -60,7 +60,7 @@ I am a writer and developer for Apple Platforms, with focus on AI-powered tools.
 - 🇵🇱 **plSwift** - Warsaw, Poland
 - 🇳🇱 **Do iOS** - Amsterdam, Netherlands
 
-## Recognition
+## Awards
 
 <div align="center">
 
