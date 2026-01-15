@@ -1,5 +1,7 @@
   
 # Rudrank Riyam
+[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/rudrankriyam&type=Date)](https://star-history.com/#rudrankriyam/rudrankriyam&Date)
+
 
 ## Books
 
