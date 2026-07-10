@@ -1,7 +1,6 @@
 # Rudrank Riyam
 
-I build Swift packages and command-line tools for Apple platforms, with a focus on on-device AI, Foundation Models, and developer automation. Creator of [App Store Connect CLI](https://github.com/rorkai/App-Store-Connect-CLI), acquired by [Rork](https://github.com/rorkai).
-
+I build Swift packages and command-line tools for Apple platforms, with a focus on on-device AI, and developer automation.
 ## Foundation Models
 
 - [**Foundation Models Framework Lab**](https://github.com/rudrankriyam/Foundation-Models-Framework-Lab) - Practical Xcode workspace for building, testing, and evaluating apps with Apple's Foundation Models framework, including examples, AppBench, Adapter Studio, and App Intents workflows.
