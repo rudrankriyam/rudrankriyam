@@ -7,7 +7,7 @@ I build Swift packages and command-line tools for Apple platforms, with a focus 
 - [**Foundation Models Framework CLI**](https://github.com/rudrankriyam/Foundation-Models-Framework-CLI) - Command-line tool for working with Apple's Foundation Models framework from scripts, experiments, and local automation.
 - [**FoundationModelsKit**](https://github.com/rryam/FoundationModelsKit) - Runtime checks, schema utilities, token accounting, conversation state, and tool helpers for Apple's Foundation Models framework.
 - [**FoundationModelsBench**](https://github.com/rudrankriyam/FoundationModelsBench) - Open evaluation suite for Apple's Foundation Models ecosystem, including on-device models, Private Cloud Compute, and compatible provider adapters.
-- [**CoreAgent**](https://github.com/rudrankriyam/CoreAgent) - Swift runtime for on-device agents with tools, memory, approval gates, traces, receipts, and Foundation Models integration.
+- [**Foundation Models Agent**](https://github.com/rudrankriyam/FoundationModelsAgent) - Native Swift harness for Apple's Foundation Models framework with governed tools, child agents, model routing, context budgets, automatic summarization, memory, and observability.
 - [**LumoKit**](https://github.com/rryam/LumoKit) - On-device retrieval-augmented generation for Swift apps.
 - [**VecturaKit**](https://github.com/rryam/VecturaKit) - Swift-based vector database for on-device RAG using MLTensor and MLX embedders.
 - [**VecturaMLXKit**](https://github.com/rryam/VecturaMLXKit) - GPU-accelerated MLX embeddings for VecturaKit.
